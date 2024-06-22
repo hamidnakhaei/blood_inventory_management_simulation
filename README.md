@@ -27,7 +27,7 @@
     - $S^t$: Supply during the period $t$ \
 ![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/2.jpeg) \
 ![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/3.jpeg) \
-![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/4.jpeg)
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/5d7570225f6394c66e31f08d8bf78ee190c98ddb/Fig/4.jpeg)
 # Questions
   - What is the long-run level of shortage and wastage of O+ blood at the blood bank?
   - The blood bank management has two options. Using simulation, compare them:
