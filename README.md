@@ -5,7 +5,7 @@
 - The main objectives of any blood bank are:
   1. To ensure that blood products are available in sufficient quantities for the patients who need blood transfusion.
   2. To ensure that the wastage of blood products is minimized.
-- Blood contains mainly three different kinds of cells\
+- Blood contains mainly three different kinds of cells
   - red blood cells (RBCs)
   - white blood cells (WBCs)
   - platelets
@@ -24,7 +24,7 @@
     - $X^t_i$: Number of items of age $i$ at the beginning of period $t$, $i$ can take values from 0 to $m-1$; with 0 denotes the freshest
     - $R$: Target level inventory for perishable item
     - $D^t$: Demand during the period $t$
-    - $S^t$: Supply during the period t
+    - $S^t$: Supply during the period $t$ \
 ![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/2.jpeg) \
 ![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/3.jpeg) \
 ![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/4.jpeg)
@@ -44,4 +44,4 @@ Average, Percentage Average, and Total of Wastage and Shortage, holding every tw
 Average, Percentage Average, and Total of Wastage and Shortage, holding every two days and target inventory = 110: \
 ![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/9.jpeg) \
 Improvement Strategy: \
-![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/10.jpeg) \
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/10.jpeg) 
