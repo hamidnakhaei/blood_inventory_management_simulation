@@ -11,7 +11,7 @@
   - platelets
   - plasma
 -  human blood can be classified into several blood groups:
-IMAGE
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/1.jpeg)
 - Supply chain at the blood bank includes five major steps: collection, separation into components, testing and determination of blood type, storage, and issuing.
 - Assumptions
   - The life of the RBCs is 36 days; and blood donation camps are currently held once every 4 days.
@@ -25,9 +25,9 @@ IMAGE
     - $R$: Target level inventory for perishable item
     - $D^t$: Demand during the period $t$
     - $S^t$: Supply during the period t
-    - IMAGE
-    - - IMAGE
-      - - IMAGE
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/2.jpeg) \
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/3.jpeg) \
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/4.jpeg)
 # Questions
   - What is the long-run level of shortage and wastage of O+ blood at the blood bank?
   - The blood bank management has two options. Using simulation, compare them:
@@ -35,13 +35,13 @@ IMAGE
     2. Hold camps every 2 days.
   - How can the blood bank improve the shortage and wastage performance?
 # Answer
-IMG
-IMG
-Average, Percentage Average, and Total of Wastage and Shortage, holding every four days:
-IMG
-Average, Percentage Average, and Total of Wastage and Shortage, holding every two days and target inventory = 110:
-IMG
-Average, Percentage Average, and Total of Wastage and Shortage, holding every two days and target inventory = 110:
-IMG
-Improvement Strategy:
-IMG
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/5.jpeg) \
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/6.jpeg) \
+Average, Percentage Average, and Total of Wastage and Shortage, holding every four days: \
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/7.jpeg) \
+Average, Percentage Average, and Total of Wastage and Shortage, holding every two days and target inventory = 110: \
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/8.jpeg) \
+Average, Percentage Average, and Total of Wastage and Shortage, holding every two days and target inventory = 110: \
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/9.jpeg) \
+Improvement Strategy: \
+![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/10.jpeg) \
