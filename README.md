@@ -2,7 +2,7 @@
 # Settings
 - A blood bank is a facility which collects, tests, processes and stores blood and its components for future use.
 - The primary responsibility of any blood bank is to plan blood collection and respond to the demand of blood and its components from patients.
-- The main objectives of any blood bank are:\
+- The main objectives of any blood bank are:
   1. To ensure that blood products are available in sufficient quantities for the patients who need blood transfusion.
   2. To ensure that the wastage of blood products is minimized.
 - Blood contains mainly three different kinds of cells\
@@ -10,7 +10,7 @@
   - white blood cells (WBCs)
   - platelets
   - plasma
--  human blood can be classified into several blood groups:
+-  human blood can be classified into several blood groups: \
 ![](https://github.com/hamidnakhaei/blood_inventory_management_simulation/blob/beb656acfd92d313d387a6cde8bab1ef4bf6b0a1/Fig/1.jpeg)
 - Supply chain at the blood bank includes five major steps: collection, separation into components, testing and determination of blood type, storage, and issuing.
 - Assumptions
